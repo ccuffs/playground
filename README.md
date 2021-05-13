@@ -53,8 +53,12 @@ git clone https://github.com/ccuffs/template template
 ```
 
 ## 🤝 Contribua
+
+Quem contribui é bonito, quem não contribui é feio e bobão.
+
 Ajudenos a  ganhar dim dim
-< img src= "https://www.google.com/search?q=gif+de+dinheiro&sxsrf=ALeKk00wGCPvVy75icANEH_Iao_3jxOfgA:1620947797227&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvoZyN5cfwAhWLHrkGHdeGB-kQ_AUoAXoECAEQAw&biw=1536&bih=731#imgrc=aKRUrfBZEiHfcM">
+<img src= "https://www.google.com/search?q=gif+de+dinheiro&sxsrf=ALeKk00wGCPvVy75icANEH_Iao_3jxOfgA:1620947797227&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvoZyN5cfwAhWLHrkGHdeGB-kQ_AUoAXoECAEQAw&biw=1536&bih=731#imgrc=aKRUrfBZEiHfcM">
+
 Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplemente utilizar o projeto e comentar sua experiência.
 
 Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto deve evoluir.
