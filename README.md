@@ -2,6 +2,7 @@
     <img width="800" src=".github/logo.png" title="Logo do projeto"><br />
     <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Status do projeto">
     <img src="https://cdn.pixabay.com/photo/2017/12/13/18/03/cloud-3017392_1280.png" title="Status do build">
+    <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">  
 </p>
 
 # Título
@@ -21,6 +22,7 @@ Aqui você pode colocar uma screenshot do produto resultante desse projeto. Desc
 
 ## 🚀 Começando
 
+
 ### 1. Primeiro passo para começar
 
 Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Rode:
@@ -37,6 +39,11 @@ apt get install outra-coisa
 
 Dessa forma os usuários podem copiar e colar sem ler as documentação (que é o que geralmente acontece).
 
+### 1.5. Acesse o site do curso
+
+* [CC.UFFS](https://cc.uffs.edu.br/)
+
+
 ### 2. Outro(s) passo(s)
 
 Geralmente os próximos passos ensinam como instalar e configurar o projeto para uso/desenvolvimento. Rode:
@@ -46,7 +53,8 @@ git clone https://github.com/ccuffs/template template
 ```
 
 ## 🤝 Contribua
-
+Ajudenos a  ganhar dim dim
+< img src= "https://www.google.com/search?q=gif+de+dinheiro&sxsrf=ALeKk00wGCPvVy75icANEH_Iao_3jxOfgA:1620947797227&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjvoZyN5cfwAhWLHrkGHdeGB-kQ_AUoAXoECAEQAw&biw=1536&bih=731#imgrc=aKRUrfBZEiHfcM">
 Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplemente utilizar o projeto e comentar sua experiência.
 
 Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto deve evoluir.
