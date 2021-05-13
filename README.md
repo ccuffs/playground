@@ -37,9 +37,9 @@ apt get install outra-coisa
 
 Dessa forma os usuários podem copiar e colar sem ler as documentação (que é o que geralmente acontece).
 
-### 1.5 Acesse o site do curos
+### 1,5. Acesse o site do curos
 
-* [CC.UFFS](https://https://cc.uffs.edu.br/)
+* [CC.UFFS](https://cc.uffs.edu.br/)
 
 
 ### 2. Outro(s) passo(s)
