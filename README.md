@@ -70,3 +70,5 @@ Abaixo está uma lista de links interessantes e projetos similares:
 
 
 OPASDFIO´JQASDIOPHASDUIOPHASDFUIPHASFUIPHASFHUIPGUIPASFUIPFGHSA
+
+galera o segredo do calculo economico é: não saber economia
