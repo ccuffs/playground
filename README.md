@@ -79,6 +79,8 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 
 Abaixo está uma lista de links interessantes e projetos similares:
 
+* [Luta epica](https://youtu.be/04shR9khSIk)
+
 TESTE
 =======
 OPASDFIO´JQASDIOPHASDUIOPHASDFUIPHASFUIPHASFHUIPGUIPASFUIPFGHSA
