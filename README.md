@@ -43,6 +43,7 @@ Geralmente os próximos passos ensinam como instalar e configurar o projeto para
 
 ```
 git clone https://github.com/ccuffs/template template
+<-Colabore com a comunidade OpenSource->
 ```
 
 ## 🤝 Contribua
