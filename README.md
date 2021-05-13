@@ -65,6 +65,56 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 
 Abaixo está uma lista de links interessantes e projetos similares:
 
+< -
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+--
+-
+
+-
+-
+-
+-
+-
+-
+--
+-
+--
+
+-
+---
+-
+-
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+->>
+
 * [Outro projeto](https://github.com/projeto)
 * [Projeto inspiração](https://github.com/projeto)
 * [Ferramenta semelhante](https://github.com/projeto)
