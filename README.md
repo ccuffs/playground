@@ -71,4 +71,5 @@ Abaixo está uma lista de links interessantes e projetos similares:
 * [Ferramenta semelhante](https://github.com/projeto)
 
 ## Foto maravilhosa
+<img width="500" src=".github/foto_gatao.jpeg" title="Logo do projeto">
 
