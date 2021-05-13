@@ -11,7 +11,7 @@ Coloque uma descrição do projeto aqui. Geralmente essa descrição tem de duas
 
 > **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
 
-## ✨ Features
+## ✨ Features ❤️
 
 Aqui você pode colocar uma screenshot do produto resultante desse projeto. Descreva também suas features usando uma lista:
 
@@ -75,3 +75,4 @@ Abaixo está uma lista de links interessantes e projetos similares:
 * [Outro projeto](https://github.com/projeto)
 * [Projeto inspiração](https://github.com/projeto)
 * [Ferramenta semelhante](https://github.com/projeto)
+* [Site do curso](https://cc.uffs.edu.br)
