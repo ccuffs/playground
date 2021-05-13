@@ -1,7 +1,7 @@
 <p align="center">
     <img width="800" src=".github/logo.png" title="Logo do projeto"><br />
     <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
+    <img src="https://cdn.pixabay.com/photo/2017/12/13/18/03/cloud-3017392_1280.png" title="Status do build">
 </p>
 
 # Título
