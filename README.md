@@ -70,6 +70,8 @@ Esse projeto é licenciado nos termos da licença open-source [MIT](https://choo
 
 ## 🧬 Changelog
 
+O @AlanHJH esteve por aqui
+
 Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md).
 
 ## Matheus alterou esse arquivo
@@ -94,3 +96,6 @@ Fernando Lindo S2
 galera o segredo do calculo economico é: não saber economia
 Teste de Git; professor lindão
 * [Site do curso](https://cc.uffs.edu.br)
+
+## Foto maravilhosa
+<img width="500" src=".github/foto_gatao.jpeg" title="Logo do projeto">
