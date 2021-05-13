@@ -50,6 +50,7 @@ Geralmente os próximos passos ensinam como instalar e configurar o projeto para
 
 ```
 git clone https://github.com/ccuffs/template template
+<-Colabore com a comunidade OpenSource->
 ```
 
 ## 🤝 Contribua
@@ -78,6 +79,8 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 
 Abaixo está uma lista de links interessantes e projetos similares:
 
+TESTE
+=======
 OPASDFIO´JQASDIOPHASDUIOPHASDFUIPHASFUIPHASFHUIPGUIPASFUIPFGHSA
 
 * [Outro projeto](https://github.com/projeto)
