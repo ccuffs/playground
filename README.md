@@ -68,6 +68,8 @@ Esse projeto é licenciado nos termos da licença open-source [MIT](https://choo
 
 Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md).
 
+## Matheus alterou esse arquivo
+
 ## 🧪 Projetos semelhates
 
 Abaixo está uma lista de links interessantes e projetos similares:
@@ -77,4 +79,3 @@ Abaixo está uma lista de links interessantes e projetos similares:
 * [Ferramenta semelhante](https://github.com/projeto)
 Teste de Git; professor lindão
 * [Site do curso](https://cc.uffs.edu.br)
-
