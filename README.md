@@ -67,3 +67,36 @@ Abaixo está uma lista de links interessantes e projetos similares:
 * [Outro projeto](https://github.com/projeto)
 * [Projeto inspiração](https://github.com/projeto)
 * [Ferramenta semelhante](https://github.com/projeto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's up Zeze, good morning, man. Let me tell you something. I'm thinking here, I know it's hard for you to get resources, I know you're running after it, but I'm talking for myself, I didn't talk to anyone, from the team. See if you can't at least pay that other 60% before Thursday's game, which you don't even have to have, you know, to win the game. It's an extra motivation for us man, to set the salary right there. Then you don't have to get a prize to win the game, because our obligation is to win this game. You are crazy! If we don't beat CSA, for God's sake. Well, make this effort for us, until Thursday, to try to hit this 60% that are behind the salary
+
+
+
+
+
+
+
+
+
