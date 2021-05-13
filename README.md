@@ -11,6 +11,9 @@ Coloque uma descrição do projeto aqui. Geralmente essa descrição tem de duas
 
 > **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
 
+## ✨ Features
+"HELLO MUNDO"
+
 ## ✨ Features ❤️
 
 Aqui você pode colocar uma screenshot do produto resultante desse projeto. Descreva também suas features usando uma lista:
