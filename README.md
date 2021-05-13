@@ -21,7 +21,7 @@ Aqui você pode colocar uma screenshot do produto resultante desse projeto. Desc
 
 ## 🚀 Começando
 
-### 1. Primeiro passo para começar
+### 1. Primeiro passo para começar a trabalhar no projeto
 
 Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Rode:
 
