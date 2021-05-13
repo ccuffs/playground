@@ -23,7 +23,7 @@ Aqui você pode colocar uma screenshot do produto resultante desse projeto. Desc
 
 ### 1. Primeiro passo para começar
 
-Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Rode:
+Geralmente o primeiro passo para começar é abrir o stack overflow. Rode:
 
 ```
 apt get install dependencia
